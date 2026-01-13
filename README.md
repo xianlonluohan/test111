@@ -6,13 +6,13 @@
 
 需要安装Arduino LD3320语音识别库和TTS20语音合成库，请参考文档：
 
-- LD3320语音识别库：<https://docs.emakefun.com/#/zh-cn/ph2.0_sensors/smart_module/speech_recognizer/speech_recognizer>
+<a href="https://docs.emakefun.com/#/zh-cn/ph2.0_sensors/smart_module/speech_recognizer/speech_recognizer" target="_blank">LD3320语音识别模块</a>
 
-- TTS20语音合成库：<https://docs.emakefun.com/#/zh-cn/ph2.0_sensors/smart_module/tts20_module/tts20_module>
+<a href="https://docs.emakefun.com/#/zh-cn/ph2.0_sensors/smart_module/tts20_module/tts20_module" target="_blank">TTS20语音合成模块</a>
 
 ## 使用
 
-- 对着语音识别模块说"小易小易"进行唤醒，唤醒成功后语音播报模块会回答: "在呢"。
+- 对着LD3320语音识别模块说"小易小易"进行唤醒，唤醒成功后语音播报模块会回答: "在呢"。
 
 - 唤醒后对着语音识别说: "请开灯"，led灯会亮，语音合成模块会播报："已开灯"，并重新等待唤醒。
 
